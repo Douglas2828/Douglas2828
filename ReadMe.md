@@ -1,6 +1,7 @@
 # 💫 About Me:
 -Estudando: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - CENTRO UNIVERSITÁRIO UNIFATECIE<br><br>-Estudando: Formação  em Tecnologia - Escola DNC<br><br>-Estou a procura de um estagio <br><br>
-
+-email:douglas.adio28@gmail.com
+Cel:(12)99794-3615
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/douglas-santos-090b10255/
